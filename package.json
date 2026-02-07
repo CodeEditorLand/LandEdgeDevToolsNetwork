@@ -433,7 +433,7 @@
         "typescript": "5.8.3",
         "vsce": "2.15.0",
         "vscode-test": "1.6.1",
-        "webpack": "5.99.9",
+        "webpack": "5.104.1",
         "webpack-cli": "6.0.1"
     }
 }
